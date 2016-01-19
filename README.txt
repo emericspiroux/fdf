@@ -8,7 +8,7 @@
 ----------------------------------------------------------------------------
 fdf is an graphic interpretor, you must install mlx library for run the 
 program. Use map in map folder.
-Number represent height.
+Number represent z index.
 
 exemple:
 
